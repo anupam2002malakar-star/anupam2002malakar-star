@@ -1,7 +1,7 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00D2FF&center=true&vCenter=true&width=800&lines=M.Sc.+Statistics+%40+IIT+Kanpur;IIT+JAM+MS+2026+AIR+131;Predictive+Modeling+%26+Credit+Risk;Python+%7C+R+%7C+SQL" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00D2FF&center=true&vCenter=true&width=800&lines=M.Sc.+Statistics+%40+IIT+Kanpur;Qualified+IIT+JAM+MS+2026+;Predictive+Modeling+%26+Credit+Risk;Python+%7C+R+%7C+SQL" />
 </p>
 
 <h1 align="center">Hi, I'm Anupam Kumar Malakar 👋</h1>
