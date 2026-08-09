@@ -20,12 +20,12 @@
 
 ### 🎯 About Me
 
-I am a First-Year **M.Sc. Statistics** student at **IIT Kanpur** with a strong background in Physics[cite: 1]. I specialize in translating complex real-world data into actionable predictive insights through rigorous statistical methods and machine learning pipelines[cite: 1].
+I am a First-Year **M.Sc. Statistics** student at **IIT Kanpur** with a strong background in Physics. I specialize in translating complex real-world data into actionable predictive insights through rigorous statistical methods and machine learning pipelines.
 
-- 🎓 **Education:** M.Sc. Statistics at IIT Kanpur ('26–Present) | B.Sc. (Hons) Physics, University of Calcutta ('25)[cite: 1]
-- 🏆 **Major Milestone:** Secured **AIR 131** in **IIT JAM Mathematical Statistics 2026** among 2,705 candidates nationwide[cite: 1].
-- 🎯 **Focus Areas:** Credit Risk Assessment, Geospatial Real Estate Analytics, Statistical Inference, and ML Pipelines[cite: 1].
-- 📚 **Current Coursework:** Probability Theory, Inferential Statistics, Time Series Analysis, Linear Algebra, Real Analysis[cite: 1].
+- 🎓 **Education:** M.Sc. Statistics at IIT Kanpur ('26–Present) | B.Sc. (Hons) Physics, University of Calcutta ('25).
+- 🏆 **Major Milestone:** Secured **AIR 131** in **IIT JAM Mathematical Statistics 2026** among 2,705 candidates nationwide.
+- 🎯 **Focus Areas:** Credit Risk Assessment, Geospatial Real Estate Analytics, Statistical Inference, and ML Pipelines.
+- 📚 **Current Coursework:** Probability Theory, Inferential Statistics, Time Series Analysis, Linear Algebra, Real Analysis.
 
 ---
 
@@ -35,10 +35,10 @@ I am a First-Year **M.Sc. Statistics** student at **IIT Kanpur** with a strong b
   <img src="https://skillicons.dev/icons?i=python,r,mysql,git,github,vscode,pycharm" />
 </p>
 
-- **Languages:** Python, R, SQL[cite: 1]
-- **Data Science & ML:** Pandas, NumPy, Scikit-Learn, Statsmodels, SciPy[cite: 1]
-- **Visualization:** Matplotlib, Seaborn[cite: 1]
-- **Tools & Productivity:** MS Excel, MS Word, LaTeX, VS Code, Git[cite: 1]
+- **Languages:** Python, R, SQL
+- **Data Science & ML:** Pandas, NumPy, Scikit-Learn, Statsmodels, SciPy
+- **Visualization:** Matplotlib, Seaborn
+- **Tools & Productivity:** MS Excel, MS Word, LaTeX, VS Code, Git
 
 ---
 
@@ -46,9 +46,9 @@ I am a First-Year **M.Sc. Statistics** student at **IIT Kanpur** with a strong b
 
 | Achievement | Organization | Details |
 | :--- | :--- | :--- |
-| **AIR 131** | IIT JAM MS 2026 | Top ~4.8% nationwide among 2,705 candidates[cite: 1] |
-| **UPSC Written Qualified** | UPSC | Qualified both **NDA** and **CDS** written examinations[cite: 1] |
-| **AFCAT Qualified** | Indian Air Force | Qualified AFCAT written examination[cite: 1] |
+| IIT JAM MS 2026 | Top ~4.8% nationwide among 2,705 candidates|
+| **UPSC Written Qualified** | UPSC | Qualified both **NDA** and **CDS** written examinations|
+| **AFCAT Qualified** | Indian Air Force | Qualified AFCAT written examination|
 
 ---
 
@@ -77,17 +77,17 @@ I am a First-Year **M.Sc. Statistics** student at **IIT Kanpur** with a strong b
 <summary><b>📊 Mexico Housing Price Case Study</b> <i>(July 2026)</i></summary>
 <br>
 
-- Integrated 3 diverse datasets into a unified schema of 1,736 listings[cite: 1].
-- Applied **variance decomposition ($\eta^2$)** to isolate pricing drivers, proving property area drives total price (34% variance) while location drives price-per-$m^2$ (26% variance)[cite: 1].
-- Uncovered **Simpson's Paradox** in state-level correlations and identified a 68% price-per-$m^2$ premium for apartments[cite: 1].
+- Integrated 3 diverse datasets into a unified schema of 1,736 listings.
+- Applied **variance decomposition ($\eta^2$)** to isolate pricing drivers, proving property area drives total price (34% variance) while location drives price-per-$m^2$ (26% variance).
+- Uncovered **Simpson's Paradox** in state-level correlations and identified a 68% price-per-$m^2$ premium for apartments.
 </details>
 
 ---
 
 ### 📜 Certifications
 
-- 🐍 **Data Science Using Python** — SWAYAM & Aligarh Muslim University *(Scored 76% in 12-week proctored course)*[cite: 1]
-- 💼 **Goldman Sachs Risk Job Simulation** — Forage *(Quantitative financial risk assessment & individual credit analysis)*[cite: 1]
+- 🐍 **Data Science Using Python** — SWAYAM & Aligarh Muslim University *(Scored 76% in 12-week proctored course)*
+- 💼 **Goldman Sachs Risk Job Simulation** — Forage *(Quantitative financial risk assessment & individual credit analysis)*
 
 ---
 
